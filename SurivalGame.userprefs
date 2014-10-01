@@ -1,12 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Sample Assets\2D\Scripts\Platformer2DUserControl.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\HudScript.cs">
     <Files>
-      <File FileName="..\TestGameComponents\Assets\class1.cs" Line="17" Column="1" />
-      <File FileName="Assets\scripts\destroyerScript.cs" Line="11" Column="11" />
-      <File FileName="Assets\scripts\spawnScript.cs" Line="15" Column="2" />
-      <File FileName="Assets\Sample Assets\2D\Scripts\PlatformerCharacter2D.cs" Line="112" Column="1" />
-      <File FileName="Assets\Sample Assets\2D\Scripts\Platformer2DUserControl.cs" Line="43" Column="1" />
+      <File FileName="..\TestGameComponents\Assets\class1.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\destroyerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\spawnScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\HudScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\BulletScript.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

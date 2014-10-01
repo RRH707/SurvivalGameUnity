@@ -5,7 +5,7 @@ public class spawnScript : MonoBehaviour
 {	
 	public GameObject[] obj;
 	public float spawnMin = 1f;
-	public float spawnMax = 2f;
+	public float spawnMax = 5f;
 
 	// Use this for initialization
 	void Start () 

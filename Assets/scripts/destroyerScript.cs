@@ -7,7 +7,8 @@ public class destroyerScript : MonoBehaviour
 	{
 		if (other.tag == "Player") 
 		{
-			Debug.Break();
+			//Debug.Break ();
+			Application.LoadLevel(1);
 			return;
 		}
 
